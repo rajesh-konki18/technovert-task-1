@@ -51,7 +51,7 @@
         font-size: 1vw;
         font-weight: bold;
     }
-    .Page:hover {
+    .nav-drop:hover {
         background-color: rgb(105, 152, 55);
         border-radius: 10px;
     }
@@ -287,7 +287,7 @@
         width: 20vw;
     }
 }
-@media screen and (max-width: 800px){
+@media screen and (max-width: 600px){
     body{
         font-family: 'Arial Narrow Bold', sans-serif;
         font-weight: bold;
@@ -336,7 +336,7 @@
         font-size: 1.5vw;
         font-weight: bold;
     }
-    .Page:hover {
+    .nav-drop:hover {
         background-color: rgb(105, 152, 55);
         border-radius: 10px;
     }
